@@ -2,6 +2,7 @@
 // import { db } from '@vercel/postgres';
 // import { invoices, customers, revenue, users } from '../lib/placeholder-data';
 
+
 // const client = await db.connect();
 
 // async function seedUsers() {
@@ -117,3 +118,6 @@
 //     return Response.json({ error }, { status: 500 });
 //   }
 // }
+
+
+
